@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="PayPalBookStore:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="PayPalBookStore-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="PayPalBookStore:war exploded" />
+    </root>
+  </artifact>
+</component>
